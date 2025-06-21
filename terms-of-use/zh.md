@@ -95,5 +95,5 @@ AI 產生之內容可能不盡正確、完整或具偏見。在依據其建議�
 ## 11. 聯絡方式  
 
 若您對本條款有任何問題，歡迎聯繫我們：  
-📧 Email：`ton731@gmail.com`  
+📧 Email：`commulab.ai@gmail.com`  
 CommuLab 團隊敬上

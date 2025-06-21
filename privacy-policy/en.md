@@ -76,6 +76,6 @@ By continuing to use the app after such updates, you agree to the updated policy
 
 If you have any questions or concerns about this policy or our handling of your data, feel free to reach out to us:
 
-📧 Email: `ton731@gmail.com`  
+📧 Email: `commulab.ai@gmail.com`  
 Sincerely,  
 The CommuLab Team

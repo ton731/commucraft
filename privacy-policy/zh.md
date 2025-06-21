@@ -76,5 +76,5 @@ CommuLab 的 AI 模擬對話功能使用第三方 AI 模型服務（如 OpenAI G
 
 若您對本政策有任何問題、資料使用的疑慮，歡迎與我們聯繫：
 
-📧 Email：`ton731@gmail.com`  
+📧 Email：`commulab.ai@gmail.com`  
 CommuLab 團隊敬上

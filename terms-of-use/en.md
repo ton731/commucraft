@@ -97,6 +97,6 @@ Your continued use of the App after such changes signifies your acceptance of th
 ## 11. Contact Us  
 
 If you have any questions regarding these Terms, feel free to contact us:  
-📧 Email: `ton731@gmail.com`  
+📧 Email: `commulab.ai@gmail.com`  
 Sincerely,  
 The CommuLab Team

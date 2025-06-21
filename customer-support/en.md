@@ -2,7 +2,7 @@
 
 If you encounter any issues while using CommuLab — or if you have feature suggestions, account questions, or subscription concerns — please don’t hesitate to contact us.  
 
-📧 You can reach us directly at: `ton731@gmail.com`  
+📧 You can reach us directly at: `commulab.ai@gmail.com`  
 
 We’ll do our best to respond promptly and assist you with your request.  
 
