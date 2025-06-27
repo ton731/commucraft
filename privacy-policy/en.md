@@ -1,13 +1,13 @@
 # Privacy Policy  
 Last updated: June 16, 2025  
 
-Welcome to **CommuLab**! We are deeply committed to protecting your personal data and privacy. This policy outlines how we collect, use, store, and safeguard your information.
+Welcome to **CommuCraft**! We are deeply committed to protecting your personal data and privacy. This policy outlines how we collect, use, store, and safeguard your information.
 
 ---
 
 ## What Information We Collect
 
-To provide personalized features and cloud synchronization in CommuLab, we collect and store the following information:
+To provide personalized features and cloud synchronization in CommuCraft, we collect and store the following information:
 
 - **User account information** (e.g., email address, login method)  
 - **DISC assessment results and history**  
@@ -28,7 +28,7 @@ This data is securely stored on our servers and linked to your account to enable
 
 ## About AI-Powered Conversations
 
-CommuLab’s AI simulation features use third-party AI model providers (e.g., OpenAI GPT API) to generate responses.
+CommuCraft’s AI simulation features use third-party AI model providers (e.g., OpenAI GPT API) to generate responses.
 
 - The input you provide during AI interactions (such as prompts or persona details) **may be transmitted to the AI service provider to generate responses**.  
 - To the best of our knowledge, providers like OpenAI state that API inputs are **not** used to train their models.
@@ -76,6 +76,6 @@ By continuing to use the app after such updates, you agree to the updated policy
 
 If you have any questions or concerns about this policy or our handling of your data, feel free to reach out to us:
 
-📧 Email: `commulab.ai@gmail.com`  
+📧 Email: `commucraft.ai@gmail.com`  
 Sincerely,  
-The CommuLab Team
+The CommuCraft Team

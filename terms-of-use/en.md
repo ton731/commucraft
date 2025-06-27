@@ -1,7 +1,7 @@
 # Terms of Use  
 Last Updated: June 16, 2025  
 
-Please read these Terms of Use ("Terms") carefully before using the CommuLab mobile application ("the App"). By installing or using the App, you agree to be bound by these Terms.
+Please read these Terms of Use ("Terms") carefully before using the CommuCraft mobile application ("the App"). By installing or using the App, you agree to be bound by these Terms.
 
 ---
 
@@ -16,7 +16,7 @@ We grant you a limited, non-exclusive, non-transferable, and revocable license t
 The core features of the App are available for free. Advanced features ("Pro version") require a paid subscription, which includes access to premium conversation simulations, persona customization, and scenario settings.
 
 ### Subscription Details:
-- **Name**: CommuLab Pro  
+- **Name**: CommuCraft Pro  
 - **Billing Cycle**: Monthly auto-renewal  
 - **Price**: As displayed at the time of purchase on the App Store (local currency may vary)  
 
@@ -47,7 +47,7 @@ These contents are securely stored in our cloud database and are linked to your 
 
 ## 5. AI Feature Disclaimer  
 
-CommuLab uses third-party AI models (e.g., OpenAI GPT API) to provide conversation simulations and coaching suggestions.  
+CommuCraft uses third-party AI models (e.g., OpenAI GPT API) to provide conversation simulations and coaching suggestions.  
 
 AI-generated content may not always be accurate, complete, or unbiased. You are solely responsible for evaluating and verifying the appropriateness of any content before acting upon it.  
 
@@ -97,6 +97,6 @@ Your continued use of the App after such changes signifies your acceptance of th
 ## 11. Contact Us  
 
 If you have any questions regarding these Terms, feel free to contact us:  
-📧 Email: `commulab.ai@gmail.com`  
+📧 Email: `commucraft.ai@gmail.com`  
 Sincerely,  
-The CommuLab Team
+The CommuCraft Team
